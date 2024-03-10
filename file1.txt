@@ -3,4 +3,5 @@ this would be fun
 let us now update our git
 seem like it is not s
 howing
-now 
+now that we have the new line, let us see whats update
+then we move on to the next phase
