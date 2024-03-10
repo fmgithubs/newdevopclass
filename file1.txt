@@ -1,4 +1,6 @@
 we are learning git 101
 this would be fun   
 let us now update our git
-seem like it is not showing
+seem like it is not s
+howing
+now 
