@@ -5,3 +5,5 @@ seem like it is not s
 howing
 now that we have the new line, let us see whats update
 then we move on to the next phase
+now that we are able to push, hopefully we can add more lines going forward
+then we see what will happen next
